@@ -1,46 +1,32 @@
-<<<<<<< HEAD
-=======
 * {
     box-sizing: border-box;
   }
->>>>>>> 467fdef5715868fec3869b62080dfa792d63ae8d
 
 body {
     margin: 0;
+    align-items: center;
     background: #ffcaff;
-<<<<<<< HEAD
     font-family: Copperplate, Papyrus, fantasy;
 
-=======
->>>>>>> 467fdef5715868fec3869b62080dfa792d63ae8d
   }
   
 
 .headerintro {
-<<<<<<< HEAD
     display:block;
     padding-top: 1%;
     padding-bottom: 1%;
     background-color:rgba(8, 8, 88, 0.415);
-    text-align: center;
-    color: #121212;
     text-shadow: 2px 7px 5px rgba(0, 0, 0, 0.415), 0px -4px 10px rgba(255, 255, 255, 0.415);
     text-decoration:solid;
-=======
     color: rgb(210, 84, 141);
     text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif
-     
-   
->>>>>>> 467fdef5715868fec3869b62080dfa792d63ae8d
 }
 
 .images {
-    display: flex;
-<<<<<<< HEAD
-    justify-content: center;
-    align-items: center;
-    padding: 20px 10px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
 }
 
 .secondheader {
@@ -70,14 +56,6 @@ text-shadow: 2px 7px 5px rgba(0, 0, 0, 0.415), 0px -4px 10px rgba(255, 255, 255,
   padding-bottom: 1%;
   background-color:rgba(8, 8, 88, 0.415);
   color: #121212;
-=======
-    flex-direction: row;
-   
-    justify-content: center;
-    align-items: center;
-    gap: 16px;
-    max-width: 1400px;
-    margin: 0 auto;
-    padding: 20px 10px;
->>>>>>> 467fdef5715868fec3869b62080dfa792d63ae8d
+  align-items: center;
+  padding: 20px 10px;
 }
