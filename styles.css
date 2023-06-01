@@ -1,0 +1,55 @@
+
+body {
+    margin: 0;
+    background: #ffcaff;
+    font-family: Copperplate, Papyrus, fantasy;
+
+  }
+  
+
+.headerintro {
+    display:block;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color:rgba(8, 8, 88, 0.415);
+    text-align: center;
+    color: #121212;
+    text-shadow: 2px 7px 5px rgba(0, 0, 0, 0.415), 0px -4px 10px rgba(255, 255, 255, 0.415);
+    text-decoration:solid;
+}
+
+.images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 10px;
+}
+
+.secondheader {
+text-align: center;
+color: rgb(210, 84, 141);
+text-shadow: 2px 7px 5px rgba(0, 0, 0, 0.415), 0px -4px 10px rgba(255, 255, 255, 0.415);
+    
+}
+
+.Sec {
+  text-align-last: center;
+  padding-left: 20%;
+  padding-right: 20%;
+  color: rgb(210, 84, 141);
+
+}
+.Links {
+  text-align: center;
+  padding-bottom: 10%;
+}
+
+
+
+.bottomheader {
+  display:block;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  background-color:rgba(8, 8, 88, 0.415);
+  color: #121212;
+}
